@@ -1,9 +1,6 @@
 Ola! Eu sou Lucas, estudante e desenvolvedor. 👋
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 
 
 <div align="center">
