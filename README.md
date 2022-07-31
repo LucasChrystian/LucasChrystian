@@ -29,8 +29,7 @@ Ola! Eu sou Lucas, estudante e desenvolvedor. 👋
   <a href="https://www.instagram.com/luscachryst/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
  	
 <a href="https://discord.com/channels/1003104465534062663/1003104466188390531" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discord&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-chrystian-8648a3201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-% 230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    
-    
-    
+
+<a href="https://www.linkedin.com/in/lucas-chrystian-8648a3201/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+   
   </div>
